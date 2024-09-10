@@ -1,0 +1,12 @@
+[
+    {
+        "cpf": 12345678911,
+        "nome": "Luiz Carlos Passos",
+        "data_nascimento": "20/05/2000"
+    },
+    {          
+        "cpf": 12314154124,
+        "nome": "Lionel Messi Ribiero",
+        "data_nascimento": "20/05/2000"
+    }
+]
